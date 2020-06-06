@@ -79,10 +79,6 @@ Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
 
 As aulas foram ministradas pelo mestre jedi **[Diego Fernandes](https://github.com/diego3g)**
 
-## :memo: License
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
----
 
 <h4 align="center">
     Feito com 💚 by <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-nunes-de-carli-8bb05a123//" target="_blank">João Carli</a>
