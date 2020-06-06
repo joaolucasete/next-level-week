@@ -82,15 +82,6 @@ As aulas foram ministradas pelo mestre jedi **[Diego Fernandes](https://github.c
 ## :memo: License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
-## Agradecimentos
-
-A seção `como usar` foi inspirada no README do **[Vitor Serrano](https://github.com/vitorserrano)**, vai lá para dar uma conferida no projeto do mesmo! 🤘
-
-O pessoal da **[He4rt Developers](https://github.com/he4rt)** e da **[Rocketseat](https://github.com/Rocketseat)** deram aquela mão quando as coisas ficaram ruins e me salvaram, sem me deixar desistir!
-Entrem na [comunidade da He4rt Developers no Discord](https://discord.gg/8mA4CM2) e [na comunidade da Rocketseat no discord!](https://discordapp.com/invite/gCRAFhc) :rocket:
-
-
 ---
 
 <h4 align="center">
